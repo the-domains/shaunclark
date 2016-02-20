@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[shaunclark]]></title>
+        <description><![CDATA[shaunclark]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 20 Feb 2016 20:45:48 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Who is Shaun Clark?</p>]]></description>
+            <link>undefinedb99b2fa1-5ac7-4775-8e83-0b21ec3e2920/index.html</link>
+            <guid isPermaLink="false">b99b2fa1-5ac7-4775-8e83-0b21ec3e2920</guid>
+            <pubDate>Sat, 20 Feb 2016 20:45:37 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
