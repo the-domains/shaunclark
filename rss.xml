@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[shaunclark]]></title>
         <description><![CDATA[shaunclark]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/shaunclark/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Feb 2016 20:45:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 20 Feb 2016 20:52:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/shaunclark/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>What skills does Shaun Clark have?</p>]]></description>
+            <link>https://thegrid.ai/shaunclark/e6f802dd-c615-4b0c-bf29-6e7a15252b83/index.html</link>
+            <guid isPermaLink="false">e6f802dd-c615-4b0c-bf29-6e7a15252b83</guid>
+            <pubDate>Sat, 20 Feb 2016 20:51:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Who is Shaun Clark?</p>]]></description>
-            <link>undefinedb99b2fa1-5ac7-4775-8e83-0b21ec3e2920/index.html</link>
+            <link>https://thegrid.ai/shaunclark/b99b2fa1-5ac7-4775-8e83-0b21ec3e2920/index.html</link>
             <guid isPermaLink="false">b99b2fa1-5ac7-4775-8e83-0b21ec3e2920</guid>
             <pubDate>Sat, 20 Feb 2016 20:45:37 GMT</pubDate>
         </item>
